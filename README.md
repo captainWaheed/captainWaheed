@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
-- 📫 How to reach me **abdulwaheed@ieee.org**
+- 📫 Reach me out: **abdulwaheed@ieee.org**
 
 - ⚡ Fun fact **I have rules like a captain.**
 
