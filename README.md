@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React JS, Blockchain**
 
-- 👯 I’m looking to collaborate on **Frontend Websites**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
-- 📫 Reach me out: **abdulwaheed@ieee.org**
+- 📫 Reach me at: **abdulwaheed@ieee.org**
 
 - ⚡ Fun fact **I have rules like a captain.**
 
