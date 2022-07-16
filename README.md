@@ -21,12 +21,9 @@
 <a href = "https://www.linkedin.com/in/abdul-waheed781/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://stackoverflow.com/users/19536865/abdul-waheed"><img src="https://img.icons8.com/fluent/48/000000/stack-overflow.png"/></a>
 <a href = "https://twitter.com/captainWaheed43"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 </div>
 
-
 <h3 align="left">Languages and Tools:</h3>
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +55,7 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+#
 
 <p align="center">
 <a href="https://github.com/captainwaheed">
