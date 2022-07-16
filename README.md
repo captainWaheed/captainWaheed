@@ -13,10 +13,16 @@
 
 - ⚡ Fun fact **I have rules like a captain.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/captain_waheed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain_waheed_" height="30" width="40" /></a>
+<!--:Social Media Links!-->
+<div align="center">
+<h3 align="center">Connect with me</h3>
+<a href = "https://www.facebook.com/captainWaheed43/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/captain_waheed_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/abdul-waheed781/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://stackoverflow.com/users/19536865/abdul-waheed"><img src="https://img.icons8.com/fluent/48/000000/stack-overflow.png"/></a>
+<a href = "https://twitter.com/captainWaheed43"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
