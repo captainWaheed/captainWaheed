@@ -16,7 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/captain_waheed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain_waheed_" height="30" width="40" /></a>
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -60,3 +61,6 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=captainwaheed&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" />
 </p>
 </p>
+
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=captainWaheed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="captainWaheed" /> </p>
