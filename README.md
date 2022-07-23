@@ -57,6 +57,10 @@
 <p > 
 
   <h3 >Framework/Libraries and Tools</h3>
+    <a href="#" target="_blank"> 
+     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+   </a>
+   &emsp;
    <a href="#" target="_blank"> 
      <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
    </a>
