@@ -122,8 +122,8 @@
 
 <p align="center">
 <a href="https://github.com/captainwaheed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=captainwaheed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=captainwaheed&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=captainwaheed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=captainwaheed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=captainwaheed&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" />
 </p>
