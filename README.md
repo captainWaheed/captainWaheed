@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdul Waheed</h1>
 <h3 align="center">A passionate Software Engineer and web developer</h3>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **React.JS, Database(monogodb), TypeScript**
+- 🌱 I’m currently learning **MERN Stack, TypeScript and Database**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **..anything**
 
 - 📫 Reach me at: **abdulwaheed@ieee.org**
 
-- ⚡ Fun fact **I have rules like a captain.**
+- ⚡ Fun fact **My username context is that I have rules for everything like a captain :man_pilot: .**
 
 <!--:Social Media Links!-->
 <div align="center">
