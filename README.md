@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **..anything**
+- 💬 Ask me about **web related quries**
 
 - 📫 Reach me at: **abdulwaheed@ieee.org**
 
