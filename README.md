@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **web related quries**
 
-- 📫 Reach me at: **abdulwaheed@ieee.org**
+- 📫 Reach me at: **theabdulwaheed38@gmail.com**
 
 - ⚡ Fun fact **My username context is that I have rules for everything like a captain :man_pilot: .**
 
