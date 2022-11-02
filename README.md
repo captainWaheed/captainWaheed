@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **My username context is that I have rules for everything like a captain :man_pilot: .**
 
-[![@captain's Holopin board](https://holopin.io/api/user/board?user=captainWaheed)](https://holopin.io/@captainWaheed)
+<!-- [![@captain's Holopin board](https://holopin.io/api/user/board?user=captainWaheed)](https://holopin.io/@captainWaheed) -->
 
 <!--:Social Media Links!-->
 <div align="center">
