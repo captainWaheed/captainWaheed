@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abdul Waheed</h1>
 <h3 align="center">A passionate Software Engineer and web developer</h3>
 
-- 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **MERN Stack, TypeScript and Database**
+- 🤝 Leading Web Development Team at **IEEE Computer Society CUI.**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 🖥️ Fellowship member(Intern) at [Bytewise](https://www.bytewiseltd.com/)
 
-- 💬 Ask me about **web related quries**
+- 🖊️ Teaching **HTML, CSS, JavaScript, GitHub, and Web Development.**
+
+- 💻 Currently learning **TypeScript, Networks, Artificial Intelligence, Software Architechture**
+
+- 👨‍💼 Working on **MERN Stack, Next.js, Wordpress, Figma Designs**
+
+- 💬 Ask me about **Web related quries**
 
 - 📫 Reach me at: **theabdulwaheed38@gmail.com**
-
-- ⚡ Fun fact **My username context is that I have rules for everything like a captain :man_pilot: .**
 
 <!-- [![@captain's Holopin board](https://holopin.io/api/user/board?user=captainWaheed)](https://holopin.io/@captainWaheed) -->
 
