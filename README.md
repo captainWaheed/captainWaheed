@@ -12,6 +12,8 @@
 
 - 👨‍💼 Working on **MERN Stack, Next.js, Wordpress, Figma Designs**
 
+- 🤝 I’m looking to collaborate on **Open source projects**
+
 - 💬 Ask me about **Web related quries**
 
 - 📫 Reach me at: **theabdulwaheed38@gmail.com**
