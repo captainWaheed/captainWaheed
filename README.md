@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Waheed</h1>
 <h3 align="center">A passionate Software Engineer and web developer</h3>
 
-
 - 🤝 Leading Web Development Team at **IEEE Computer Society CUI.**
 
 - 🖥️ Fellowship member(Intern) at [Bytewise](https://www.bytewiseltd.com/)
@@ -10,7 +9,7 @@
 
 - 💻 Currently learning **TypeScript, Networks, Artificial Intelligence, Software Architechture**
 
-- 👨‍💼 Working on **MERN Stack, Next.js, Wordpress, Figma Designs**
+- 👨‍💼 Working on **MERN Stack, Next.js, Wordpress, UI/UX Designs**
 
 - 🤝 I’m looking to collaborate on **Open source projects**
 
@@ -57,10 +56,9 @@
   </a>
 </p>
 
-
 </div>
 <div align="center" >
-<p > 
+<p >
 
   <h3 >Framework/Libraries and Tools</h3>
     <a href="#" target="_blank"> 
@@ -126,7 +124,6 @@
 </p>
 </div>
 
-
 <p align="center">
 <a href="https://github.com/captainwaheed">
  
@@ -140,4 +137,3 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=captainWaheed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="captainWaheed" /> </p>
-
