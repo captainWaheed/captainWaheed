@@ -3,8 +3,6 @@
 
 - 🤝 Leading Web Development Team at **IEEE Computer Society CUI.**
 
-- 🖥️ Fellowship member(Intern) at [Bytewise](https://www.bytewiseltd.com/)
-
 - 🖊️ Teaching **HTML, CSS, JavaScript, GitHub, and Web Development.**
 
 - 💻 Currently learning **TypeScript, Networks, Artificial Intelligence, Software Architechture**
