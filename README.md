@@ -134,5 +134,6 @@
 
 </p>
 
-<!-- [![committers.top badge](https://user-badge.committers.top/pakistan/captainWaheed.svg)](https://user-badge.committers.top/pakistan/captainWaheed) -->
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/captainWaheed.svg)](https://user-badge.committers.top/pakistan_private/captainWaheed)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainWaheed&label=Profile%20views&color=0e75b6&style=flat" alt="captainWaheed" /> </p>
