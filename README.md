@@ -23,7 +23,7 @@
 <a href = "https://www.facebook.com/captainWaheed43/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/captain_waheed_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/abdul-waheed781/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/captainWaheed43"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/captainWaheed43"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
 </div>
 
 <div align="center" >
