@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdul Waheed</h1>
 <h3 align="center">A passionate Software Engineer and web developer</h3>
 
-- 🤝 Leading Web Development Team at **IEEE Computer Society CUI.**
+- 🤝 Leading Web Development Team at **IEEE Computer Society CUI**
 
-- 🖊️ Teaching **HTML, CSS, JavaScript, GitHub, and Web Development.**
+- 🖊️ Teaching **HTML, CSS, JavaScript, GitHub, and Web Development**
 
-- 💻 Currently learning **TypeScript, Networks, Artificial Intelligence, Software Architechture**
+- 💻 Currently learning **Docker, NEST.js, and Mobile development**
 
-- 👨‍💼 Working on **MERN Stack, Next.js, Wordpress, UI/UX Designs**
+- 👨‍💼 Working on **Next.js, MERN Stack, UI/UX Designs**
 
 - 🤝 I’m looking to collaborate on **Open source projects**
 
