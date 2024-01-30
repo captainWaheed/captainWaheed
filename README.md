@@ -30,16 +30,16 @@
 <p > 
 <h3 >Programming languages</h3>  
   <a href="#">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-&emsp;
-<a href="#">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-  &emsp;
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>&emsp;
 <a href="#">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
+&emsp;
+<a href="#">
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+</a>
+  
   &emsp;
 <a href="#">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -59,8 +59,9 @@
 <p >
 
   <h3 >Framework/Libraries and Tools</h3>
-    <a href="#" target="_blank"> 
-     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+
+  <a href="#" target="_blank"> 
+     <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
    </a>
    &emsp;
    <a href="#" target="_blank"> 
@@ -69,27 +70,26 @@
    &emsp;
    <a href="#" target="_blank"> 
      <img alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+   </a>  &emsp;
+   <a href="#" target="_blank"> 
+    <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  </a>&emsp;
+   <a href="#" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a> &emsp;
+   <a href="#" target="_blank"> 
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>&emsp;
+    <a href="#" target="_blank"> 
+     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
    </a>
    &emsp;
    <a href="#" target="_blank"> 
      <img alt="Bable" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
    </a>
-   &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-   </a>
-   &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  </a>
-  &emsp;
-   <a href="#" target="_blank"> 
-    <img alt="Illustrator" src="https://img.shields.io/badge/Adobe-illustrator-31A8FF?style=for-the-badge&logo=Adobe-illustrator&labelColor=0a446b&logoWidth=15"/>
-  </a>
-    &emsp;
-   <a href="#" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  </a>
+  
+  
+   
   &emsp;
   <a href="#" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
@@ -97,6 +97,22 @@
   &emsp;
   <a href="#" target="_blank"> 
     <img alt="Figma" src="https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=figma&logoColor=blue" height="30px"/>
+  </a> &emsp;
+   <a href="#" target="_blank"> 
+    <img alt="Chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
+  </a> &emsp;
+   <a href="#" target="_blank"> 
+    <img alt="AntDesign" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
+  </a>&emsp;
+   <a href="#" target="_blank"> 
+    <img alt="Illustrator" src="https://img.shields.io/badge/Adobe-illustrator-31A8FF?style=for-the-badge&logo=Adobe-illustrator&labelColor=0a446b&logoWidth=15"/>
+  </a> &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   </a>
+   &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   </a>
 </p>
 </div>
