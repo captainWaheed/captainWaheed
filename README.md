@@ -84,13 +84,6 @@
      <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
    </a>
    &emsp;
-   <a href="#" target="_blank"> 
-     <img alt="Bable" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
-   </a>
-  
-  
-   
-  &emsp;
   <a href="#" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
   </a>
