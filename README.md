@@ -34,6 +34,9 @@
   </a>&emsp;
 <a href="#">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a> &emsp;
+  <a href="#">
+    <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
 &emsp;
 <a href="#">
@@ -48,10 +51,7 @@
 <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="#">
-    <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  </a>
+ 
 </p>
 
 </div>
