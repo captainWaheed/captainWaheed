@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Waheed</h1>
-<h3 align="center">A passionate Software Engineer and web developer</h3>
+<h3 align="center">A passionate Software Engineer and Web Developer</h3>
 
-- 🤝 Leading Web Development Team at **IEEE Computer Society CUI**
+- 🤝 Mentoring Web Development Team at **IEEE Computer Society CUI**
 
 - 🖊️ Teaching **HTML, CSS, JavaScript, GitHub, and Web Development**
 
