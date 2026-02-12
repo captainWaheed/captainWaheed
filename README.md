@@ -29,8 +29,11 @@
 </div>
 
 ## Stats
-<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captainWaheed&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="captainWaheed" /></p>
-<p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=captainWaheed&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="captainWaheed" /></p> 
+<!-- <p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captainWaheed&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="captainWaheed" /></p>
+<p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=captainWaheed&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="captainWaheed" /></p>  -->
+<p align="center">
+  <img width="54%" src="https://streak-stats.demolab.com?user=captainwaheed&theme=tokyonight&hide_border=true" />
+  </p>
 
 [![committers.top badge](https://user-badge.committers.top/pakistan_private/captainWaheed.svg)](https://user-badge.committers.top/pakistan_private/captainWaheed)
 
