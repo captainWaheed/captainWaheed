@@ -34,7 +34,7 @@
 <p align="center">
   <img width="54%" src="https://streak-stats.demolab.com?user=captainwaheed&theme=tokyonight&hide_border=true" />
   </p>
-<!--
+
 [![committers.top badge](https://user-badge.committers.top/pakistan_private/captainWaheed.svg)](https://user-badge.committers.top/pakistan_private/captainWaheed)
--->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainWaheed&label=Profile%20views&color=0e75b6&style=flat" alt="captainWaheed" /> </p>
